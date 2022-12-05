@@ -10,7 +10,8 @@ namespace Sh9ke_sTestConsoleApp
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello vord");
+            Console.ReadLine();
         }
     }
 }
