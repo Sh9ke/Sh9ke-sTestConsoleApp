@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\bin\Debug\Sh9ke'sTestConsoleApp.exe.config
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\bin\Debug\Sh9ke'sTestConsoleApp.exe
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\bin\Debug\Sh9ke'sTestConsoleApp.pdb
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\obj\Debug\Sh9ke'sTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\obj\Debug\Sh9ke'sTestConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\obj\Debug\Sh9ke'sTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\obj\Debug\Sh9ke'sTestConsoleApp.exe
+C:\Users\alexa\source\repos\Sh9ke'sTestConsoleApp\obj\Debug\Sh9ke'sTestConsoleApp.pdb
